@@ -1,0 +1,458 @@
+body {
+  font-size:14px;
+  line-height:16px;
+  margin:0px;
+  padding:0px;
+  font-family: 'Lato';
+}
+#wrapper {
+  width:100%;
+  float:left;
+  margin:0px;
+  padding:0px;
+}
+#divone {
+  width:100%;
+  float:left;
+  height:640px;
+  background:url("../images/bgone.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height:100%;
+}
+#wrapperone {
+ width:960px;
+ margin:0px auto;
+}
+#wrapperone h1 {
+  font-size: 60px;
+  font-family: "Lato";
+  color: rgb( 255, 255, 255 );
+  line-height: 0.8;
+  text-align: center;
+  position: absolute;
+  top: 20.717px;
+  width: 960px;
+  height: 56px;
+  z-index: 90;
+  font-weight:lighter;
+}
+#wrapperone p {
+  font-size: 17px;
+  font-family: "Latoitalic";
+  color: rgb( 208, 231, 233 );
+  font-style: italic;
+  line-height: 1.412;
+  text-align: center;
+  position: absolute;
+ 
+  top: 114.771px;
+  width: 960px;
+  height: 48px;
+  z-index: 89;
+}
+.wrapperonep {
+ top:140.771px !important;
+}
+.Play_Icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4500px;
+  z-index: 87;
+}
+.Shape_1 {
+  background-color: rgb( 255, 255, 255 );
+  position: absolute;
+  left: 792px;
+  top: 420px;
+  width: 18px;
+  height: 28px;
+  z-index: 86;
+}
+.icon_video {
+ width:60;
+ margin:0px auto;
+}
+.wrapperoneicon {
+  background-color: rgba( 0, 0, 0, 0 );
+  position: absolute;
+  top: 228px;
+  width: 83px;
+  height: 83px;
+  z-index: 85;
+}
+.getting {
+  border-radius: 3px;
+  background-color: rgb( 122, 204, 200 );
+  box-shadow: 0.5px 0.866px 3px 0px rgb( 0, 0, 0 );
+  position: absolute;
+  color:#fff;
+  top: 558px;
+  width: 226px;
+  height: 34px;
+  z-index: 81;
+  text-decoration:none;
+  font-size:20px;
+  text-align:center;
+  padding-top:16px;
+}
+.getting_started {
+ width:216px;
+ margin:0px auto;
+}
+#divtwo {
+ width:100%;
+  float:left;
+  height:640px;
+  background:url("../images/bgtwo.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height:100%;
+}
+.Seesky {
+  font-size: 50px;
+  font-family: "Lato";
+  color: rgb( 255, 255, 255 );
+  line-height: 0.964;
+  text-align: left;
+  position: absolute;
+  left: 170.937px;
+  font-weight:normal;
+  width: 654px;
+  height: 103px;
+  z-index: 63;
+}
+.divtwopone {
+  font-size: 14px;
+  font-family: "Lato";
+  color: rgb( 255, 255, 255 );
+  line-height: 28px;
+  text-align: left;
+  position: absolute;
+  left: 170.937px;
+  font-weight:normal;
+  width: 586px;
+  height: 75px;
+  z-index: 62;
+  margin-top:154px;
+}
+.divtwoptwo {
+  font-size: 14px;
+  font-family: "Lato";
+  color: rgb( 255, 255, 255 );
+  line-height: 28px;
+  text-align: left;
+  position: absolute;
+  left: 170.937px;
+  font-weight:normal;
+  width: 586px;
+  height: 75px;
+  z-index: 62;
+  margin-top:314px;
+}
+.download{
+    background-color: rgba(246, 150, 121, 0);
+    border-color: #FFFFFF;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 3px;
+    color: #FFFFFF;
+    font-size: 18px;
+    height: 30px;
+    left: 170.937px;
+    margin-top: 445px;
+    padding-top: 12px;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    width: 217px;
+    z-index: 58;
+}
+#divthree {
+  width:100%;
+  float:left;
+  height:640px;
+  background:url("../images/bgthree.png") no-repeat center center ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height:100%;
+}
+.divthreellipse {
+  position: absolute;
+  text-align:center;
+  margin-top: 180px;
+  width: 126px;
+  height: 126px;
+  z-index: 67;
+}
+.ellipsemain {
+ width:11%;
+ margin:0px auto;
+}
+.divthreep {
+  font-size: 43px;
+  font-family: "Lato";
+  color: rgb( 255, 255, 255 );
+  line-height: 1.233;
+  text-align: center;
+  position: absolute;
+  margin-top: 320px;
+  width: 100%;
+  height: 93px;
+  z-index: 66;
+}
+#divthree ul {
+ position :absolute;
+ margin-top:492px;
+}
+#divthree ul li {
+  width:30px;
+  float:left;
+  list-style-type:none;
+}
+.nippleone {
+  background:url("../images/nippleone.png") no-repeat;
+  width:16px;
+  height:20px;
+  display:block;
+}
+.nippletwo {
+  background:url("../images/nippletwo.png") no-repeat;
+  width:16px;
+  height:20px;
+  display:block;
+}
+#divfour {
+  width:100%;
+  float:left;
+  height:640px;
+  background-color:#fff no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height:100%;
+}
+.divfourone {
+ width:50%;
+ float:left;
+ margin-top:80px;
+ border-right: 1px solid rgb( 208, 217, 226 );
+}
+.divfourtwo {
+  width:49%;
+  float:left;
+  margin-top:80px;
+}
+.partone {
+  width:100%;
+  float:left;
+}
+.partone h3,
+.partone p,
+.parttwo h3,
+.parttwo p{
+  text-align:justify;
+  font-family: "Lato";
+  color: rgb( 122, 131, 135 );
+  width:63%;
+  margin:0px auto;
+  line-height:26px;
+}
+.gap {
+  margin-bottom:30px;
+}
+.demo {
+  border-radius: 3px;
+  background-color: rgb( 246, 150, 121 );
+  position: absolute;
+  left: 594px;
+  width: 160px;
+  height: 36px;
+  z-index: 34;
+  text-align:center;
+  text-decoration:none;
+  font-size:16px;
+  margin-top:75px;
+  color:#fff;
+  padding-top:20px;
+}
+.trydemo {
+  width:100%;
+  float:left;
+  text-align:center;
+}
+#divfive {
+  width:100%;
+  float:left;
+  height:640px;
+  background:#f6f6f4 no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height:100%;
+}
+.divfivepartone {
+ width:51%;
+ float:left;
+ margin-top:80px;
+ margin-left:90px;
+}
+.divfiveparttwo {
+ width:42%;
+ float:left;
+ margin-top:30px;
+}
+.extrastartup {
+ width:25%;
+ float:left;
+}
+.sothirsty {
+  width:25%;
+  float:left;
+  margin-left:150px;
+}
+.extracolorbg {
+ width:284px;
+ height:284px;
+ background-color: rgb( 246, 150, 121 );
+}
+.extraone {
+  background-color: rgb( 255, 255, 255 );
+  height:100px;
+  width: 284px;
+}
+.extraone h4 {
+  margin-top:0px;
+  margin-left:20px;
+  padding-top:10px;
+  font-family: "Lato";
+  color: rgb( 145, 151, 168 );
+}
+.extraone p{
+ margin-left:20px;
+ font-family: "Lato";
+  color: rgb( 145, 151, 168 );
+}
+.extracolorbgone {
+   background-color: rgb( 232, 185, 104 );
+   width: 284px;
+   height: 284px;
+}
+.divfiveparttitle,
+.divfivepartarrow,
+.divfivepartp {
+  width:100%;
+  float:left;
+}
+.divfiveparttitle h2 {
+  font-size: 45px;
+  font-family: "Lato";
+  color: rgb( 171, 188, 195 );
+  line-height: 1.178;
+  text-align: left;
+  text-shadow: 0.5px 0.866px 0px rgb( 255, 255, 255 );
+  width:75%;
+  font-weight:normal;
+  margin-bottom:10px;
+}
+.divfivepartp p{
+  width:75%;
+  line-height:24px;
+  font-family: "Myriad Pro";
+  color: rgb( 171, 188, 195 );
+}
+.divfivepartarrow {
+ margin-top:188px;
+}
+.slidearrowone {
+  float:right;
+  margin-right:18px;
+}
+.slidearrowtwo {
+  float:right;
+  margin-right:119px;
+}
+#divsix {
+  width:100%;
+  float:left;
+  height:640px;
+  background:#7accc8 no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height:100%;
+}
+.divsixone,
+.divsixtwo {
+ width:100%;
+ float:left;
+}
+.divsixone {
+  margin-top:40px;
+}
+.paraone{
+  width:50%;
+  float:left;
+  margin-left:94px;
+}
+.paratwo {
+  width:40%;
+  float:left;
+}
+.paratwo ul {
+ margin-right:190px;
+ float:right;
+}
+.paratwo ul li {
+  list-style-type:none;
+  line-height:30px;
+}
+.paratwo ul li a {
+  text-decoration:none;
+  color:#fff;
+}
+.paraonelast {
+  width:62%;
+  float:left;
+  line-height:26px;
+  color:#fff;
+  font-size: 14px;
+  font-family: 'HelveticaNeue';
+}
+.paratwolast {
+ width:29%;
+ float:left;
+ margin-left:20px;
+ line-height:26px;
+  color:#fff;
+  font-size: 14px;
+  font-family: 'HelveticaNeue';
+}
+.imglast {
+  width:100%;
+  float:left;
+  text-align:center;
+  margin-top:40px;
+}
+.paralast {
+  width:100%;
+  float:left;
+  text-align:center;
+  margin-top:40px;
+}
+.paralast p {
+  color: rgb( 255, 255, 255 );
+  font-size:14px;
+  font-family: "Myriad Pro";
+}
